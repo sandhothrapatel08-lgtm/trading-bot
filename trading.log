@@ -1,0 +1,13 @@
+2026-04-21 13:38:05.460 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:41:34.490 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:49:33.663 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:51:28.294 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:54:20.366 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:58:44.865 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 13:59:32.378 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 14:03:09.496 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 14:08:13.835 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 14:11:29.875 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 14:17:33.767 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 14:25:48.963 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-21 17:49:10.769 | ERROR    | __main__:trade:33 - {'error': 'APIError(code=-2014): API-key format invalid.'}
